@@ -775,8 +775,8 @@ Untuk mematikan fitur ini, ketik
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: '*Perintah ini Khusus ArullOfc*',
-        owner: '*Perintah ini Khusus ArullOfc*',
+        rowner: '*Perintah ini Khusus Frmnfc*',
+        owner: '*Perintah ini Khusus Frmnfc*',
         mods: '*Perintah ini hanya dapat digunakan oleh* _*Moderator*_ !',
         premium: '*Perintah ini hanya untuk member* _*Premium*_ !',
         group: '*Perintah ini hanya dapat digunakan di grup!*',
