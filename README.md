@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/fadf93e02010bf5a891e6.jpg" alt="Hyzer Md-V3" width="300" />
 
 </p>
-<h1 align="center">ArullOfc</h1>
+<h1 align="center">Frmnfc</h1>
 
 >
 >
@@ -15,7 +15,7 @@
   <a href="https://api-hyzerr.herokuapp.com"><img title="Rest Api" src="https://img.shields.io/badge/Rest Api-Hyzerr.svg?style=for-the-badge&logo=twitter" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/6285822347348">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
+  <a href="https://wa.me/6283188622570">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
 </h4>
 </p>
 
@@ -66,4 +66,4 @@ WhatsApp Bot Multi Device
 ---------
 
 ## Request Fitur To
-[`Creator Here`](https://wa.me/6287892711054?text=Banh+req+fitur) 
+[`Creator Here`](https://wa.me/6283188622570?text=Banh+req+fitur) 
